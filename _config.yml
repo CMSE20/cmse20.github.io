@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "CMSE20"
 title_separator          : "|"
 subtitle                 : "Material Science and Engineering"
-name                     : "Your Name"
+name                     : "Lim Donghyun"
 description              : "An amazing website."
 url                      : "https://cmse20.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

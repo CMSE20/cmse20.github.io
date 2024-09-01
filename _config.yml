@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lim Donghyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "재료공학도 임동현의 블로그입니다."
+  location         : "South Korea"
+  email            : "ehdgusfile@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

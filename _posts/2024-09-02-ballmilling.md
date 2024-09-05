@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Step1. Ball milling protocol"
+title: "Step1. Ball milling process"
 categories:  experiment
-tag: [experiment, Traditional Method]
+tag: Traditional Method
 toc: true
 ---
 

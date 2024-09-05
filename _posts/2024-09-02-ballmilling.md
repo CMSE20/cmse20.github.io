@@ -3,10 +3,9 @@ layout: single
 title: "Step1. Ball milling process"
 categories:  experiment
 tag: Traditional Method
-toc: true
+#toc: true
 ---
 
-Ball milling 장비 사용과정<br>
 1. 필요한 고체 파우더 준비(위치:진공박스)<br>
 *레버가 위로 올라가있고, 내압이 -0.04라면 진공상태니까 레버를 내린 후 0이 되면 열기<br>
 2. 파우더를 옮길 시약 스푼 준비<br>
@@ -29,8 +28,8 @@ Ball milling 장비 사용과정<br>
 12.	미리 준비한 시약통에 파우더들을 전부 넣기<br>
 *에탄올을 뿌려서 유산지에 남는 것 없도록 전부 넣기<br>
 14.	ZrO2 ball을 적정량 넣는다 (가운데 책장에 위치)<br>
-15.	에탄올을 가득 채우고 꽉 닫고 충분히 흔든 다음<br> 고무줄 2개씩 두 번 묶어 ball milling 장비에 넣기(24시간 소요)
-
+15.	에탄올을 가득 채우고 꽉 닫고 충분히 흔든 다음<br> 고무줄 2개씩 두 번 묶어 ball milling 장비에 넣기(24시간 소요)<br>
+<br>
 <뒷정리><br>
 1. 전자저울 처음 닦은 대로 전부 에탄올로 닦기<br>
 2. 스푼은 수세미 노란 부분에 퐁퐁 묻혀서 닦고 헹구기<br>

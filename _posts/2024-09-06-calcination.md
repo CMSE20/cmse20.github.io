@@ -35,5 +35,5 @@ tag: Traditional Method
 8. 2~3분 정도 지켜보면서 온도가 잘 증가하는지 꼭 확인할 것<br>
   (온도가 증가하지 않는다면 furnace에 문제가 있는 것이다)<br>
  <br>
-<Caution><br>
+   *주의 사항<br>
 N 등의 원소를 사용할 경우 전에 사용한 기계에 넣을 수 없음. Mr.Abid에게 물어보기

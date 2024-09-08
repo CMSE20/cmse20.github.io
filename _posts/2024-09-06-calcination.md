@@ -9,6 +9,9 @@ author_profile: false
 #  nav: "docs"
 ---
 
+**[Caution]** [Do not randomly share this report]
+{: .notice--info}
+
 1. ‘Turn on’ 버튼 확인(초록 불 켜기. 꺼져있다면 눌러서 켜기)<br>
 2. Furnace에 준비한 재료 넣고 사진 촬영<br>
   (furnace 안에 핸드폰 넣고 항공샷으로 찍어 이름이 정확히 보이도록 촬영-추후 확인용)<br>

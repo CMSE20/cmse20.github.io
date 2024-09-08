@@ -4,6 +4,7 @@ title: "Step4. Calcination process"
 categories:  experiment
 tag: Traditional Method
 #toc: true
+author_profile: false
 ---
 
 1. ‘Turn on’ 버튼 확인(초록 불 켜기. 꺼져있다면 눌러서 켜기)<br>

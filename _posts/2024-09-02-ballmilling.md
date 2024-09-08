@@ -9,7 +9,7 @@ author_profile: false
 #  nav: "docs"
 ---
 
-**[공지사항]** [첫번째 게시물입니다.]
+**[Caution]** [Do not randomly share this report]
 {: .notice--info}
 
 1. 필요한 고체 파우더 준비(위치:진공박스)<br>

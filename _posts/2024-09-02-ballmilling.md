@@ -4,6 +4,7 @@ title: "Step1. Ball milling process"
 categories:  experiment
 tag: Traditional Method
 #toc: true
+author_profile: false
 ---
 
 1. 필요한 고체 파우더 준비(위치:진공박스)<br>

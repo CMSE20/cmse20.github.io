@@ -30,4 +30,9 @@ Cf. wt%이므로 100을 반드시 나누어줘야 함<br>
 11.	유산지 전자저울에 넣고 영점조절 후 재료 넣고 계측<br>
 12.	플라스틱 병에 담고 Zirconia ball 충분히 넣은 후 에탄올로 채우기<br>
 13.	병 흔들고 고무줄로 감싸서 Ball milling 장비에 넣기(24시간 진행)<br>
-14.	이후 step2(drying process)와 step3(mesh process)를 진행
+14.	이후 step2(drying process)와 step3(mesh process)를 진행<br>
+<br>
+<뒷정리><br>
+1. 실험기구 정리는 배운대로 진행<br>
+2. Zr bowl은 세척 및 건조 후 Al foil로 감싸서 보관(위에 '재료명 + washed' 작성)<br>
+3. Zirconia ball은 함께 보관이 가능한지 꼭 물어보기

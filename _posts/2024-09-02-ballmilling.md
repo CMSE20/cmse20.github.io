@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Step1. Mixing process"
+title: "Step1. Ball milling process"
 categories:  experiment
 tag: Traditional Method
 #toc: true

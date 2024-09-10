@@ -12,7 +12,7 @@ author_profile: false
 **[Caution]** [Do not randomly share this report]
 {: .notice--info}
 
-0. ball milling, dry, sieving까지 모두 mixing 단계의 과정임<br>
+0. ball milling, dry, mesh(sieving)까지 모두 mixing 단계의 과정임<br>
 1. 필요한 고체 파우더 준비(위치:진공박스)<br>
 *레버가 위로 올라가있고, 내압이 -0.04라면 진공상태니까 레버를 내린 후 0이 되면 열기<br>
 2. 파우더를 옮길 시약 스푼 준비<br>

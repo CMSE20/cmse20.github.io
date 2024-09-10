@@ -12,6 +12,8 @@ author_profile: false
 **[Caution]** [Do not randomly share this report]
 {: .notice--info}
 
+0.	Mixing and Mesh 과정은 step1~3까지의 과정을 뜻함.<br>
+(같은 과정이나, 중간 계산 과정의 차이가 있기에 따로 정리함)<br>
 1.	Furnace controller에서 stop 버튼 2~3초 눌러 끄기(4번째 버튼)<br>
 2.	Furnace 열고 미리 찍어둔 사진 위치대로 포스트잍에 이름 적고 붙이기<br>
 3.	재료 꺼낸 후 기계 잘 잠그기, 재료 들고 실험실로 가기<br>
@@ -27,4 +29,5 @@ author_profile: false
 Cf. wt%이므로 100을 반드시 나누어줘야 함<br>
 11.	유산지 전자저울에 넣고 영점조절 후 재료 넣고 계측<br>
 12.	플라스틱 병에 담고 Zirconia ball 충분히 넣은 후 에탄올로 채우기<br>
-13.	병 흔들고 고무줄로 감싸서 Ball milling 장비에 넣기(24시간 진행)
+13.	병 흔들고 고무줄로 감싸서 Ball milling 장비에 넣기(24시간 진행)<br>
+14.	이후 step2(drying process)와 step3(mesh process)를 진행

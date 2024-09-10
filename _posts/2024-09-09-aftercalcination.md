@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Step5. After calcination"
+title: "Step5. Mixing and mesh"
 categories:  experiment
 tag: Traditional Method
 #toc: true
@@ -8,6 +8,9 @@ author_profile: false
 #sidebar:
 #  nav: "docs"
 ---
+
+**[Caution]** [Do not randomly share this report]
+{: .notice--info}
 
 1.	Furnace controller에서 stop 버튼 2~3초 눌러 끄기(4번째 버튼)<br>
 2.	Furnace 열고 미리 찍어둔 사진 위치대로 포스트잍에 이름 적고 붙이기<br>

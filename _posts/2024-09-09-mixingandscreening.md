@@ -31,7 +31,7 @@ author_profile: false
 12.	플라스틱 병에 담고 Zirconia ball 충분히 넣은 후 에탄올로 채우기<br>
 13.	병 흔들고 고무줄로 감싸서 Ball milling 장비에 넣기(24시간 진행)<br>
 14.	이후 step2(drying process) 진행<br>
-15. Step3(screening) 진행 후, Coarse / fine particle을 분리하여 Al foil에 보관<br>
+15. Step3(screening) 진행 후, Coarse / fine powder를 분리하여 Al foil에 보관<br>
  *Al foil은 네모난 모양으로 접기, 이름에 coarse of fine 반드시 작성<br>
 <br>
 <뒷정리><br>

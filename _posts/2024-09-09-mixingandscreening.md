@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Step5. Mixing and mesh"
+title: "Step5. Mixing and Screening"
 categories:  experiment
 tag: Traditional Method
 #toc: true
@@ -13,7 +13,7 @@ author_profile: false
 {: .notice--info}
 
 0.	Mixing and Mesh 과정은 step1~3까지의 과정을 뜻함.<br>
- * 같은 과정이나, 중간 계산 과정의 차이가 있기에 따로 정리함<br>
+ *같은 과정이나, 중간 계산 과정의 차이가 있기에 따로 정리함<br>
 1.	Furnace controller에서 stop 버튼 2~3초 눌러 끄기(4번째 버튼)<br>
 2.	Furnace 열고 미리 찍어둔 사진 위치대로 포스트잍에 이름 적고 붙이기<br>
 3.	재료 꺼낸 후 기계 잘 잠그기, 재료 들고 실험실로 가기<br>
@@ -32,11 +32,11 @@ author_profile: false
 13.	병 흔들고 고무줄로 감싸서 Ball milling 장비에 넣기(24시간 진행)<br>
 14.	이후 step2(drying process) 진행<br>
 15. Step3(screening) 진행 후, Coarse / fine particle을 분리하여 Al foil에 보관<br>
- * Al foil은 네모난 모양으로 접기, 이름에 coarse of fine 반드시 작성<br>
+ *Al foil은 네모난 모양으로 접기, 이름에 coarse of fine 반드시 작성<br>
 <br>
 <뒷정리><br>
 1. 실험기구 정리는 배운대로 진행<br>
-2. Zr bowl은 세척 및 건조 후 Al foil로 감싸서 보관(위에 '재료명 + washed' 작성)<br>
+2. Zr grinding bowl은 세척 및 건조 후 Al foil로 감싸서 보관(위에 '재료명 + washed' 작성)<br>
 3. Zirconia ball은 함께 보관이 가능한지 꼭 물어보기<br>
 4. 사용한 sieve들을 후에 혼용할 수 없다면 개별로 테이프 붙이고 이름 작성<br>
  * 이름 적었다면 Al foil은 함께 포장해 보관해도 무관함

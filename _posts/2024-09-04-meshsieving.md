@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Step3. Mesh(sieving) process"
+title: "Step3. Screening process"
 categories:  experiment
 tag: Traditional Method
 #toc: true

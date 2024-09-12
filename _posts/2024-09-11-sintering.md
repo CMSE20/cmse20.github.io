@@ -25,5 +25,5 @@ author_profile: false
  *Calcination controller와 동일<br>
 <br>
 <주의사항><br>
-1. Pellet 핀셋으로 옮길 때 재료가 다르면 반드시 에탄올로 닦은 후 사용<br>
+1. Pellet 핀셋으로 옮길 때 재료가 다르면 반드시 에탄올로 닦은 후 사용(스푼도 동일)<br>
 2. Pellet과 뚜껑이 닿으면 안 됨<br>

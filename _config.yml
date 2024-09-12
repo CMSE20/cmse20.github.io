@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This too shall pass"
   location         : "South Korea"
-  email            : "ehdgusfile@naver.com"
+  email            : #"ehdgusfile@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

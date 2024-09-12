@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Lim's online lab"
+title                    : "MSE online lab"
 title_separator          : "|"
 subtitle                 : "Material Science and Engineering"
 name                     : "Lim Donghyun"

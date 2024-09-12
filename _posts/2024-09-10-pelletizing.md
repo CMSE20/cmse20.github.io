@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Step6. Pellet"
+title: "Step6. Pelletizing"
 categories: experiment
 tag: Traditional Method
 #toc: true

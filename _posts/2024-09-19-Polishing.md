@@ -22,15 +22,13 @@ author_profile: false
  *1.2mm부터는 1500 polishing paper 사용<br>
 4. 각 sample 별로 2개씩 제작 후 재료명 작성해 봉투에 구분해 담기<br>
  *한 개는 side polished(다음 과정 진행), 한 개는 side not polished(보관)<br>
-ex. “Ba(Zr0.8Y0.2)O3-x, side polished, T = 1.018mm”<br>
+ ex. “Ba(Zr0.8Y0.2)O3-x, side polished, T = 1.018mm”<br>
 5. Side polished sample을 꺼내 전도성 잉크를 바르기<br>
  *이쑤시개로 잉크를 덜고 재료에 바름. 이후 붓으로 펴기<br>
  (sample을 돌려가며 빈틈없이 바르기)<br>
 6. 바른 후 직육면체의 bowl에 sample을 비스듬히 놓기, 번호 매기기<br>
  *sample을 꺼낸 plastic pag과 bowl 모두 번호 작성<br>
- 
 ![20240919_162704](https://github.com/user-attachments/assets/30cabaa1-9772-4884-9c56-f3c43c903d1e)
-
 7. 모든 sample 완성 후 electric furnace에 넣기<br>
  (실험실 내 ball milling 장비 옆에 위치)<br>
 <br>

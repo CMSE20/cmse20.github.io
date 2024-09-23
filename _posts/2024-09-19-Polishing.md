@@ -31,6 +31,8 @@ author_profile: false
 ![20240919_162704](https://github.com/user-attachments/assets/30cabaa1-9772-4884-9c56-f3c43c903d1e)
 7. 모든 sample 완성 후 electric furnace에 넣기<br>
  (실험실 내 ball milling 장비 옆에 위치)<br>
+8. 꺼낸 후 side polishing하여 plastic pag에 보관<br>
+*윗면과 아랫면을 분리하기 위해 옆면의 Pt paste를 polishing하여 제거함<br>
 <br>
 <주의사항><br>
 1. 방진 마스크 착용 후 진행<br>

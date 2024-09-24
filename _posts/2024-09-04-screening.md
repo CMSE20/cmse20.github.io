@@ -2,7 +2,7 @@
 layout: single
 title: "Step3. Screening process"
 categories:  experiment
-tag: Traditional Method
+tag: solid phase synthesis
 #toc: true
 author_profile: false
 #sidebar:

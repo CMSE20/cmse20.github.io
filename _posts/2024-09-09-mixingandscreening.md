@@ -2,7 +2,7 @@
 layout: single
 title: "Step5. Mixing and Screening"
 categories:  experiment
-tag: Traditional Method
+tag: solid phase synthesis
 #toc: true
 author_profile: false
 #sidebar:

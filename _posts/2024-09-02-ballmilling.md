@@ -2,7 +2,7 @@
 layout: single
 title: "Step1. Ball milling process"
 categories:  experiment
-tag: Traditional Method
+tag: solid phase synthesis
 #toc: true
 author_profile: false
 #sidebar:

@@ -13,7 +13,7 @@ author_profile: false
 {: .notice--info}
 
 1. ‘Turn on’ 버튼 확인(초록 불 켜기. 꺼져있다면 눌러서 켜기)<br>
-2. Furnace에 준비한 재료 넣고 사진 촬영<br>
+2. Furnace에 Zr crucial 넣고 사진 촬영<br>
  *furnace 안에 핸드폰 넣고 항공샷으로 찍어 이름이 정확히 보이도록 촬영-추후 확인용<br>
 3. 준비한 재료들 Al foil 벗기고 스티로폼 닫은 뒤 바깥 문 닫기(나사 4개 돌려서 꽉 잠그기)<br>
  Cf. 재료들의 위치가 바뀌면 절대 안 됨<br>
@@ -50,4 +50,4 @@ author_profile: false
  <br>
 <주의 사항><br>
 1. N 등의 원소를 사용할 경우 전에 사용한 기계에 넣을 수 없음<br>
- *자세한 사항은 물어보기
+ *자세한 사항은 질문하기

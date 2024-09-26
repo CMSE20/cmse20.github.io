@@ -26,8 +26,8 @@ author_profile: false
 5. Side polished sample을 꺼내 전도성 잉크를 바르기<br>
  *이쑤시개로 잉크를 덜고 재료에 바름. 이후 붓으로 펴기<br>
  (sample을 돌려가며 빈틈없이 바르기)<br>
-6. 바른 후 직육면체의 bowl에 sample을 비스듬히 놓기, 번호 매기기<br>
- *sample을 꺼낸 plastic pag과 bowl 모두 번호 작성<br>
+6. 바른 후 Zirconia sintering tray(이하 Zr tray)에 sample을 비스듬히 놓기, 번호 매기기<br>
+ *sample을 꺼낸 plastic pag과 Zr tray 모두 번호 작성<br>
 ![20240919_162704](https://github.com/user-attachments/assets/30cabaa1-9772-4884-9c56-f3c43c903d1e)
 7. 모든 sample 완성 후 electric furnace에 넣기<br>
  (실험실 내 ball milling 장비 옆에 위치)<br>
@@ -38,5 +38,5 @@ author_profile: false
 <주의사항><br>
 1. 방진 마스크 착용 후 진행<br>
 2. 두께(T)는 5번 측정해 평균값으로 작성<br>
-3. bowl과 plastic pag에 작성한 번호가 모두 보이도록 사진 촬영(기록용)<br>
+3. Zr tray과 plastic pag에 작성한 번호가 모두 보이도록 사진 촬영(기록용)<br>
 4. Electric furnace에 넣은 후에도 사진 촬영(번호가 보이도록)<br>

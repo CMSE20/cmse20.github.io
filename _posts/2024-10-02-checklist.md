@@ -12,7 +12,7 @@ author_profile: false
 **[Caution]** [Do not randomly share this report]
 {: .notice--info}
 
-<실험 진행 전 질문 사항><br>
+<Checklist of 'Solid Phase Synthesis'><br>
 1. Ball milling<br>
  1) 몇 mol의 powder를 사용할 것인가?<br>
  2) 24hr ball milling 이후에 꺼낼 수 있는가?<br>

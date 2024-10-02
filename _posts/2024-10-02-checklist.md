@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Checklist_Solid phase synthesis"
+title: "Checklist(solid phase synthesis)"
 categories:  experiment
 tag: solid phase synthesis
 #toc: true

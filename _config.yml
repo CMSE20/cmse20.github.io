@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Lim Donghyun"
-  avatar           : "![science image](https://github.com/user-attachments/assets/65ad281d-2d68-4b0e-bb78-7dbcb5a52e50)" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Re-creation"
   location         : "South Korea"
   email            : #"ehdgusfile@naver.com"

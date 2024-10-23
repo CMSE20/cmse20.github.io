@@ -52,4 +52,6 @@ author_profile: false
  <br>
 <주의 사항><br>
 1. N 등의 원소를 사용할 경우 전에 사용한 기계에 넣을 수 없음<br>
- *자세한 사항은 질문하기
+ *자세한 사항은 질문하기<br>
+2. Furnace 사용 시 current/coltage 전원이 켜져있는지 반드시 확인할 것!!<br>
+  (PV: 실제온도, SV: 프로그램 상 설정온도)

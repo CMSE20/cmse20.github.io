@@ -28,3 +28,5 @@ author_profile: false
 1. Pellet 핀셋으로 옮길 때 재료가 다르면 반드시 에탄올로 닦은 후 사용(스푼도 동일)<br>
 2. Pellet과 뚜껑이 닿으면 안 됨<br>
 3. Sintering 이후 과정 진행 시 맨 위/아래의 pellet은 사용 지양<br>
+4. Furnace 사용 시 current/coltage 전원이 켜져있는지 반드시 확인할 것!!<br>
+  (PV: 실제온도, SV: 프로그램 상 설정온도)

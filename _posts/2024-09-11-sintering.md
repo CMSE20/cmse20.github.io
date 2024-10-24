@@ -13,6 +13,9 @@ author_profile: false
 {: .notice--info}
 
 <Controller에 4개의 버튼이 있는 furnace 사용법><br>
+
+
+
 1. CIP process 마무리한 pellet들과 coarse powder 준비하기<br>
 2. Sintering tray 내부 밑면에 재료명 작성 후 coarse powder 1/4 면적에 얇게 깔기 (스푼 사용)<br>
 3. Pellet 들어있는 장갑 끝부분 자르고 핀셋으로 pellet 꺼내 coarse powder 위에 쌓기<br>
@@ -26,6 +29,9 @@ author_profile: false
  *Calcination controller와 동일<br>
 <br>
 <Controller에 표처럼 입력하는 경우><br>
+
+![sintering furnace_2](https://github.com/user-attachments/assets/88b60dde-b1a2-4aeb-833c-e062a5383e3b)
+
 1. 전원 켜고 우측 화살표 버튼 누르기 -> PROG이 뜸<br>
 2. SET 버튼 누르기 -> PROG이 사라지고 1이 뜸(1번 세팅에 값을 저장한다는 의미)<br>
 3. SET 버튼 누르기 -> SEGNO가 PV 창에 나오고 segment number는 0번부터 시작<br>

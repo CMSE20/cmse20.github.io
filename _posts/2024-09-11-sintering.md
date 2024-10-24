@@ -30,7 +30,7 @@ author_profile: false
 <br>
 <Controller에 표처럼 입력하는 경우><br>
 <br>
-![sintering furnace_2](https://github.com/user-attachments/assets/88b60dde-b1a2-4aeb-833c-e062a5383e3b)
+![sintering furnace_2](https://github.com/user-attachments/assets/d99c3941-1329-4f50-95b0-b6c997df76ea)
 <br>
 1. 전원 켜고 우측 화살표 버튼 누르기 -> PROG이 뜸<br>
 2. SET 버튼 누르기 -> PROG이 사라지고 1이 뜸(1번 세팅에 값을 저장한다는 의미)<br>

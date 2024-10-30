@@ -50,8 +50,10 @@ author_profile: false
 <br>
 <주의사항><br>
 1. Ball milling할 경우 Zirconia ball은 충분히 넣고 에탄올은 적당량 넣어야 함<br>
-(절대 에탄올을 많이 넣어서는 안 됨)<br>
+ (절대 에탄올을 많이 넣어서는 안 됨)<br>
 2. 만약 big particle이 남아있는 경우 fine particle과 섞이면 안 됨<br>
 큰 입자를 따로 분리하여 건조하고 사발에 갈아낸 후에 고운 입자와 합쳐야 함<br>
 3. 물론 sintering 등의 열처리 과정 이후에는 큰 입자가 존재할 수 있음. 열처리를 마무리한 이후에는 큰 입자가 존재해도 무관함<br>
-(불안한 경우 따로 분리해 2번의 과정을 진행할 것)<br>
+ (불안한 경우 따로 분리해 2번의 과정을 진행할 것)<br>
+4. Ball milling을 하루 이상 진행하면 zirconia ball에 의해 라이덴 병이 깎여나가고 carbon을 함유한 불순물 발생<br>
+ *이것이 너무 많아지면 문제가 되기에 대부분 하루 이상 ball milling 진행하지 않음<br>

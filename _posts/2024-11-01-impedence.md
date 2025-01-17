@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Impedence  Mesurement"
-categories: analysis
+categories: experiment
 tag: Impedence Mesurement
 #toc: true
 author_profile: false

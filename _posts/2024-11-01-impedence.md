@@ -51,3 +51,6 @@ author_profile: false
 16. Gas가 furnace쪽 실린더 2개에서 모두 보글보글 나오는지 확인<br>
  *Dry 조건의 경우, input gas line의 밸브를 돌려 dry가 되도록 설정하기<br>
 17. Do not touch 표지판 노트북 위에 올리기<br>
+<br>
+<주의사항><br>
+1. 완벽히 조여도 가스가 나오지 않는다면, Reactor 프로그램 내 'Flow' 항목에서 MFC(Mass Flow Controller)의 채널 설정을 확인<br>
